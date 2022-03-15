@@ -19,7 +19,7 @@ padding: 12px 50px;
 main {
     display:grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, lfr);
+    grid-template-rows: repeat(4, lfr);
     gap: 50px;
 
 }
