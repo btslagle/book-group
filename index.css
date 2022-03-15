@@ -2,7 +2,6 @@
 
 body {
     font-family: Merriweather;
-    
     background-color: lightslategray;
     
     
@@ -79,7 +78,6 @@ footer {
 .grid-item-3 {
     grid-column: 2/ span 1;
     grid-row: 3 / span 1;
-   
 }
 
 .grid-item-4 {
