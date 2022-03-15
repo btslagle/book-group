@@ -2,13 +2,13 @@
 
 body {
     font-family: Merriweather;
-    background-color: lightslategray;
+    background-color: hsl(210, 14%, 53%);
     
     
 }
 
 header {
-background-color: beige;
+background-color: 	hsl(60, 56%, 91%);
 font-size: 40px;
 padding: 12px 50px;
 
@@ -25,7 +25,7 @@ main {
 h2 {
     margin-bottom: 20px;
     font-size: 25px;
-    color: gold;
+    color: hsl(51, 100%, 50%);
 }
 
 section {
@@ -40,7 +40,7 @@ article {
 
 h1 {
     text-align: center;
-    color:gold;
+    color:hsl(51, 100%, 50%);
     font-size: 60px;
     margin-top: 40px;
 
@@ -63,19 +63,19 @@ div {
 
 
 div a {
-    color: gold;
+    color:hsl(51, 100%, 50%);
     position: absolute;
     bottom: 1%;
 }
 
 
 a {
-    color: gold;
+    color:hsl(51, 100%, 50%);
 }
 
 footer {
     margin-top:14px;
-    color:gold;
+    color:hsl(51, 100%, 50%);
     text-align: center;
 
 
