@@ -11,16 +11,28 @@ body {
 header {
 background-color: beige;
 font-size: 40px;
+padding: 12px 50px;
+
+
+}
+
+main {
 
 
 }
 h2 {
     margin-bottom: 20px;
+    font-size: 25px;
+    color: gold;
+}
+
+section {
+    margin-top: 20px;
 }
 
 article {
-    margin-top:20px;
-    
+    margin-top:30px;
+
 
 }
 
@@ -37,11 +49,15 @@ image {
 }
 
 a {
-    margin-top:25px;
+    color: gold;
+    text-decoration: none;
 
 }
 
 footer {
     margin-top:14px;
+    color:gold;
+    text-align: center;
+
 
 }
